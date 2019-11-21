@@ -1,1 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2004 on Music Players</title><link>http://localhost:1314/year/2004/</link><description>Recent content in 2004 on Music Players</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 06 Jul 2019 10:32:03 +0300</lastBuildDate><atom:link href="http://localhost:1314/year/2004/index.xml" rel="self" type="application/rss+xml"/><item><title>iPod mini</title><link>http://localhost:1314/ipod/ipod-mini/</link><pubDate>Sat, 06 Jul 2019 10:32:03 +0300</pubDate><guid>http://localhost:1314/ipod/ipod-mini/</guid><description/></item><item><title>iPod U2 Edition (4th Gen)</title><link>http://localhost:1314/ipod/ipod-u2-edition-4th-gen/</link><pubDate>Sat, 06 Jul 2019 10:29:24 +0300</pubDate><guid>http://localhost:1314/ipod/ipod-u2-edition-4th-gen/</guid><description/></item><item><title>iPod (4th Gen/Clickwheel)</title><link>http://localhost:1314/ipod/ipod-4th-gen-clickwheel/</link><pubDate>Sat, 06 Jul 2019 10:28:58 +0300</pubDate><guid>http://localhost:1314/ipod/ipod-4th-gen-clickwheel/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2004 on Music Players</title>
+    <link>http://localhost:1314/year/2004/</link>
+    <description>Recent content in 2004 on Music Players</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 06 Jul 2019 10:32:03 +0300</lastBuildDate>
+    
+	<atom:link href="http://localhost:1314/year/2004/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>iPod mini</title>
+      <link>http://localhost:1314/ipod/ipod-mini/</link>
+      <pubDate>Sat, 06 Jul 2019 10:32:03 +0300</pubDate>
+      
+      <guid>http://localhost:1314/ipod/ipod-mini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPod U2 Edition (4th Gen)</title>
+      <link>http://localhost:1314/ipod/ipod-u2-edition-4th-gen/</link>
+      <pubDate>Sat, 06 Jul 2019 10:29:24 +0300</pubDate>
+      
+      <guid>http://localhost:1314/ipod/ipod-u2-edition-4th-gen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPod (4th Gen/Clickwheel)</title>
+      <link>http://localhost:1314/ipod/ipod-4th-gen-clickwheel/</link>
+      <pubDate>Sat, 06 Jul 2019 10:28:58 +0300</pubDate>
+      
+      <guid>http://localhost:1314/ipod/ipod-4th-gen-clickwheel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

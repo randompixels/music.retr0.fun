@@ -1,1 +1,168 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Year on Music Players</title><link>http://localhost:1314/year/</link><description>Recent content in Year on Music Players</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 23 Jul 2019 13:07:29 +0300</lastBuildDate><atom:link href="http://localhost:1314/year/index.xml" rel="self" type="application/rss+xml"/><item><title>2018</title><link>http://localhost:1314/year/2018/</link><pubDate>Tue, 23 Jul 2019 13:07:29 +0300</pubDate><guid>http://localhost:1314/year/2018/</guid><description/></item><item><title>2016</title><link>http://localhost:1314/year/2016/</link><pubDate>Tue, 23 Jul 2019 13:07:01 +0300</pubDate><guid>http://localhost:1314/year/2016/</guid><description/></item><item><title>2015</title><link>http://localhost:1314/year/2015/</link><pubDate>Tue, 23 Jul 2019 13:06:59 +0300</pubDate><guid>http://localhost:1314/year/2015/</guid><description/></item><item><title>2013</title><link>http://localhost:1314/year/2013/</link><pubDate>Tue, 23 Jul 2019 13:06:44 +0300</pubDate><guid>http://localhost:1314/year/2013/</guid><description/></item><item><title>2011</title><link>http://localhost:1314/year/2011/</link><pubDate>Tue, 23 Jul 2019 13:06:33 +0300</pubDate><guid>http://localhost:1314/year/2011/</guid><description/></item><item><title>2010</title><link>http://localhost:1314/year/2010/</link><pubDate>Tue, 23 Jul 2019 13:06:30 +0300</pubDate><guid>http://localhost:1314/year/2010/</guid><description/></item><item><title>2009</title><link>http://localhost:1314/year/2009/</link><pubDate>Tue, 23 Jul 2019 13:06:25 +0300</pubDate><guid>http://localhost:1314/year/2009/</guid><description/></item><item><title>2008</title><link>http://localhost:1314/year/2008/</link><pubDate>Tue, 23 Jul 2019 13:06:19 +0300</pubDate><guid>http://localhost:1314/year/2008/</guid><description/></item><item><title>2007</title><link>http://localhost:1314/year/2007/</link><pubDate>Tue, 23 Jul 2019 13:06:05 +0300</pubDate><guid>http://localhost:1314/year/2007/</guid><description/></item><item><title>2003</title><link>http://localhost:1314/year/2003/</link><pubDate>Wed, 10 Jul 2019 21:57:29 +0300</pubDate><guid>http://localhost:1314/year/2003/</guid><description/></item><item><title>2006</title><link>http://localhost:1314/year/2006/</link><pubDate>Wed, 10 Jul 2019 21:49:09 +0300</pubDate><guid>http://localhost:1314/year/2006/</guid><description/></item><item><title>2019</title><link>http://localhost:1314/year/2019/</link><pubDate>Sat, 06 Jul 2019 10:36:44 +0300</pubDate><guid>http://localhost:1314/year/2019/</guid><description/></item><item><title>2012</title><link>http://localhost:1314/year/2012/</link><pubDate>Sat, 06 Jul 2019 10:36:05 +0300</pubDate><guid>http://localhost:1314/year/2012/</guid><description/></item><item><title>2005</title><link>http://localhost:1314/year/2005/</link><pubDate>Sat, 06 Jul 2019 10:33:46 +0300</pubDate><guid>http://localhost:1314/year/2005/</guid><description/></item><item><title>2004</title><link>http://localhost:1314/year/2004/</link><pubDate>Sat, 06 Jul 2019 10:32:03 +0300</pubDate><guid>http://localhost:1314/year/2004/</guid><description/></item><item><title>2002</title><link>http://localhost:1314/year/2002/</link><pubDate>Sat, 06 Jul 2019 10:27:15 +0300</pubDate><guid>http://localhost:1314/year/2002/</guid><description/></item><item><title>2001</title><link>http://localhost:1314/year/2001/</link><pubDate>Sat, 06 Jul 2019 09:11:55 +0300</pubDate><guid>http://localhost:1314/year/2001/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Year on Music Players</title>
+    <link>http://localhost:1314/year/</link>
+    <description>Recent content in Year on Music Players</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jul 2019 13:07:29 +0300</lastBuildDate>
+    
+	<atom:link href="http://localhost:1314/year/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2018</title>
+      <link>http://localhost:1314/year/2018/</link>
+      <pubDate>Tue, 23 Jul 2019 13:07:29 +0300</pubDate>
+      
+      <guid>http://localhost:1314/year/2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2016</title>
+      <link>http://localhost:1314/year/2016/</link>
+      <pubDate>Tue, 23 Jul 2019 13:07:01 +0300</pubDate>
+      
+      <guid>http://localhost:1314/year/2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2015</title>
+      <link>http://localhost:1314/year/2015/</link>
+      <pubDate>Tue, 23 Jul 2019 13:06:59 +0300</pubDate>
+      
+      <guid>http://localhost:1314/year/2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2013</title>
+      <link>http://localhost:1314/year/2013/</link>
+      <pubDate>Tue, 23 Jul 2019 13:06:44 +0300</pubDate>
+      
+      <guid>http://localhost:1314/year/2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2011</title>
+      <link>http://localhost:1314/year/2011/</link>
+      <pubDate>Tue, 23 Jul 2019 13:06:33 +0300</pubDate>
+      
+      <guid>http://localhost:1314/year/2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2010</title>
+      <link>http://localhost:1314/year/2010/</link>
+      <pubDate>Tue, 23 Jul 2019 13:06:30 +0300</pubDate>
+      
+      <guid>http://localhost:1314/year/2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2009</title>
+      <link>http://localhost:1314/year/2009/</link>
+      <pubDate>Tue, 23 Jul 2019 13:06:25 +0300</pubDate>
+      
+      <guid>http://localhost:1314/year/2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2008</title>
+      <link>http://localhost:1314/year/2008/</link>
+      <pubDate>Tue, 23 Jul 2019 13:06:19 +0300</pubDate>
+      
+      <guid>http://localhost:1314/year/2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2007</title>
+      <link>http://localhost:1314/year/2007/</link>
+      <pubDate>Tue, 23 Jul 2019 13:06:05 +0300</pubDate>
+      
+      <guid>http://localhost:1314/year/2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2003</title>
+      <link>http://localhost:1314/year/2003/</link>
+      <pubDate>Wed, 10 Jul 2019 21:57:29 +0300</pubDate>
+      
+      <guid>http://localhost:1314/year/2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2006</title>
+      <link>http://localhost:1314/year/2006/</link>
+      <pubDate>Wed, 10 Jul 2019 21:49:09 +0300</pubDate>
+      
+      <guid>http://localhost:1314/year/2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2019</title>
+      <link>http://localhost:1314/year/2019/</link>
+      <pubDate>Sat, 06 Jul 2019 10:36:44 +0300</pubDate>
+      
+      <guid>http://localhost:1314/year/2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2012</title>
+      <link>http://localhost:1314/year/2012/</link>
+      <pubDate>Sat, 06 Jul 2019 10:36:05 +0300</pubDate>
+      
+      <guid>http://localhost:1314/year/2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2005</title>
+      <link>http://localhost:1314/year/2005/</link>
+      <pubDate>Sat, 06 Jul 2019 10:33:46 +0300</pubDate>
+      
+      <guid>http://localhost:1314/year/2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2004</title>
+      <link>http://localhost:1314/year/2004/</link>
+      <pubDate>Sat, 06 Jul 2019 10:32:03 +0300</pubDate>
+      
+      <guid>http://localhost:1314/year/2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2002</title>
+      <link>http://localhost:1314/year/2002/</link>
+      <pubDate>Sat, 06 Jul 2019 10:27:15 +0300</pubDate>
+      
+      <guid>http://localhost:1314/year/2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2001</title>
+      <link>http://localhost:1314/year/2001/</link>
+      <pubDate>Sat, 06 Jul 2019 09:11:55 +0300</pubDate>
+      
+      <guid>http://localhost:1314/year/2001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

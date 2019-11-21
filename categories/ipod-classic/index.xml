@@ -1,1 +1,105 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>iPod Classic on Music Players</title><link>http://localhost:1314/categories/ipod-classic/</link><description>Recent content in iPod Classic on Music Players</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 06 Jul 2019 10:31:53 +0300</lastBuildDate><atom:link href="http://localhost:1314/categories/ipod-classic/index.xml" rel="self" type="application/rss+xml"/><item><title>iPod Classic (6th Gen)</title><link>http://localhost:1314/ipod/ipod-classic-6th-gen/</link><pubDate>Sat, 06 Jul 2019 10:31:53 +0300</pubDate><guid>http://localhost:1314/ipod/ipod-classic-6th-gen/</guid><description/></item><item><title>iPod U2 Edition (5th Gen)</title><link>http://localhost:1314/ipod/ipod-u2-edition-5th-gen/</link><pubDate>Sat, 06 Jul 2019 10:31:02 +0300</pubDate><guid>http://localhost:1314/ipod/ipod-u2-edition-5th-gen/</guid><description/></item><item><title>iPod (5th Gen/Video)</title><link>http://localhost:1314/ipod/ipod-5th-gen-with-video/</link><pubDate>Sat, 06 Jul 2019 10:30:55 +0300</pubDate><guid>http://localhost:1314/ipod/ipod-5th-gen-with-video/</guid><description/></item><item><title>iPod U2 Edition Color</title><link>http://localhost:1314/ipod/ipod-u2-edition-color/</link><pubDate>Sat, 06 Jul 2019 10:30:26 +0300</pubDate><guid>http://localhost:1314/ipod/ipod-u2-edition-color/</guid><description/></item><item><title>iPod Photo</title><link>http://localhost:1314/ipod/ipod-photo/</link><pubDate>Sat, 06 Jul 2019 10:29:56 +0300</pubDate><guid>http://localhost:1314/ipod/ipod-photo/</guid><description/></item><item><title>iPod U2 Edition (4th Gen)</title><link>http://localhost:1314/ipod/ipod-u2-edition-4th-gen/</link><pubDate>Sat, 06 Jul 2019 10:29:24 +0300</pubDate><guid>http://localhost:1314/ipod/ipod-u2-edition-4th-gen/</guid><description/></item><item><title>iPod (4th Gen/Clickwheel)</title><link>http://localhost:1314/ipod/ipod-4th-gen-clickwheel/</link><pubDate>Sat, 06 Jul 2019 10:28:58 +0300</pubDate><guid>http://localhost:1314/ipod/ipod-4th-gen-clickwheel/</guid><description/></item><item><title>iPod (3rd Gen)</title><link>http://localhost:1314/ipod/ipod-3rd-gen-10-15-30/</link><pubDate>Sat, 06 Jul 2019 10:28:06 +0300</pubDate><guid>http://localhost:1314/ipod/ipod-3rd-gen-10-15-30/</guid><description/></item><item><title>iPod (2nd Gen/Touch Wheel)</title><link>http://localhost:1314/ipod/ipod-2nd-gen-touch-wheel/</link><pubDate>Sat, 06 Jul 2019 10:27:15 +0300</pubDate><guid>http://localhost:1314/ipod/ipod-2nd-gen-touch-wheel/</guid><description/></item><item><title>iPod (Original/Scroll Wheel)</title><link>http://localhost:1314/ipod/ipod-original-scroll-wheel/</link><pubDate>Sat, 06 Jul 2019 09:11:55 +0300</pubDate><guid>http://localhost:1314/ipod/ipod-original-scroll-wheel/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iPod Classic on Music Players</title>
+    <link>http://localhost:1314/categories/ipod-classic/</link>
+    <description>Recent content in iPod Classic on Music Players</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 06 Jul 2019 10:31:53 +0300</lastBuildDate>
+    
+	<atom:link href="http://localhost:1314/categories/ipod-classic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>iPod Classic (6th Gen)</title>
+      <link>http://localhost:1314/ipod/ipod-classic-6th-gen/</link>
+      <pubDate>Sat, 06 Jul 2019 10:31:53 +0300</pubDate>
+      
+      <guid>http://localhost:1314/ipod/ipod-classic-6th-gen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPod U2 Edition (5th Gen)</title>
+      <link>http://localhost:1314/ipod/ipod-u2-edition-5th-gen/</link>
+      <pubDate>Sat, 06 Jul 2019 10:31:02 +0300</pubDate>
+      
+      <guid>http://localhost:1314/ipod/ipod-u2-edition-5th-gen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPod (5th Gen/Video)</title>
+      <link>http://localhost:1314/ipod/ipod-5th-gen-with-video/</link>
+      <pubDate>Sat, 06 Jul 2019 10:30:55 +0300</pubDate>
+      
+      <guid>http://localhost:1314/ipod/ipod-5th-gen-with-video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPod U2 Edition Color</title>
+      <link>http://localhost:1314/ipod/ipod-u2-edition-color/</link>
+      <pubDate>Sat, 06 Jul 2019 10:30:26 +0300</pubDate>
+      
+      <guid>http://localhost:1314/ipod/ipod-u2-edition-color/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPod Photo</title>
+      <link>http://localhost:1314/ipod/ipod-photo/</link>
+      <pubDate>Sat, 06 Jul 2019 10:29:56 +0300</pubDate>
+      
+      <guid>http://localhost:1314/ipod/ipod-photo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPod U2 Edition (4th Gen)</title>
+      <link>http://localhost:1314/ipod/ipod-u2-edition-4th-gen/</link>
+      <pubDate>Sat, 06 Jul 2019 10:29:24 +0300</pubDate>
+      
+      <guid>http://localhost:1314/ipod/ipod-u2-edition-4th-gen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPod (4th Gen/Clickwheel)</title>
+      <link>http://localhost:1314/ipod/ipod-4th-gen-clickwheel/</link>
+      <pubDate>Sat, 06 Jul 2019 10:28:58 +0300</pubDate>
+      
+      <guid>http://localhost:1314/ipod/ipod-4th-gen-clickwheel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPod (3rd Gen)</title>
+      <link>http://localhost:1314/ipod/ipod-3rd-gen-10-15-30/</link>
+      <pubDate>Sat, 06 Jul 2019 10:28:06 +0300</pubDate>
+      
+      <guid>http://localhost:1314/ipod/ipod-3rd-gen-10-15-30/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPod (2nd Gen/Touch Wheel)</title>
+      <link>http://localhost:1314/ipod/ipod-2nd-gen-touch-wheel/</link>
+      <pubDate>Sat, 06 Jul 2019 10:27:15 +0300</pubDate>
+      
+      <guid>http://localhost:1314/ipod/ipod-2nd-gen-touch-wheel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPod (Original/Scroll Wheel)</title>
+      <link>http://localhost:1314/ipod/ipod-original-scroll-wheel/</link>
+      <pubDate>Sat, 06 Jul 2019 09:11:55 +0300</pubDate>
+      
+      <guid>http://localhost:1314/ipod/ipod-original-scroll-wheel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

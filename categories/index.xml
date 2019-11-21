@@ -1,1 +1,96 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Music Players</title><link>http://localhost:1314/categories/</link><description>Recent content in Categories on Music Players</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 23 Jul 2019 13:07:29 +0300</lastBuildDate><atom:link href="http://localhost:1314/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Apple</title><link>http://localhost:1314/categories/apple/</link><pubDate>Tue, 23 Jul 2019 13:07:29 +0300</pubDate><guid>http://localhost:1314/categories/apple/</guid><description/></item><item><title>iPhone</title><link>http://localhost:1314/categories/iphone/</link><pubDate>Tue, 23 Jul 2019 13:07:29 +0300</pubDate><guid>http://localhost:1314/categories/iphone/</guid><description/></item><item><title>Creative</title><link>http://localhost:1314/categories/creative/</link><pubDate>Wed, 10 Jul 2019 21:57:29 +0300</pubDate><guid>http://localhost:1314/categories/creative/</guid><description/></item><item><title>Microsoft Zune</title><link>http://localhost:1314/categories/microsoft-zune/</link><pubDate>Wed, 10 Jul 2019 21:50:06 +0300</pubDate><guid>http://localhost:1314/categories/microsoft-zune/</guid><description/></item><item><title>iPod Touch</title><link>http://localhost:1314/categories/ipod-touch/</link><pubDate>Sat, 06 Jul 2019 10:36:44 +0300</pubDate><guid>http://localhost:1314/categories/ipod-touch/</guid><description/></item><item><title>iPod Shuffle</title><link>http://localhost:1314/categories/ipod-shuffle/</link><pubDate>Sat, 06 Jul 2019 10:34:44 +0300</pubDate><guid>http://localhost:1314/categories/ipod-shuffle/</guid><description/></item><item><title>iPod Nano</title><link>http://localhost:1314/categories/ipod-nano/</link><pubDate>Sat, 06 Jul 2019 10:33:29 +0300</pubDate><guid>http://localhost:1314/categories/ipod-nano/</guid><description/></item><item><title>iPod Mini</title><link>http://localhost:1314/categories/ipod-mini/</link><pubDate>Sat, 06 Jul 2019 10:32:09 +0300</pubDate><guid>http://localhost:1314/categories/ipod-mini/</guid><description/></item><item><title>iPod Classic</title><link>http://localhost:1314/categories/ipod-classic/</link><pubDate>Sat, 06 Jul 2019 10:31:53 +0300</pubDate><guid>http://localhost:1314/categories/ipod-classic/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Music Players</title>
+    <link>http://localhost:1314/categories/</link>
+    <description>Recent content in Categories on Music Players</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jul 2019 13:07:29 +0300</lastBuildDate>
+    
+	<atom:link href="http://localhost:1314/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apple</title>
+      <link>http://localhost:1314/categories/apple/</link>
+      <pubDate>Tue, 23 Jul 2019 13:07:29 +0300</pubDate>
+      
+      <guid>http://localhost:1314/categories/apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPhone</title>
+      <link>http://localhost:1314/categories/iphone/</link>
+      <pubDate>Tue, 23 Jul 2019 13:07:29 +0300</pubDate>
+      
+      <guid>http://localhost:1314/categories/iphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creative</title>
+      <link>http://localhost:1314/categories/creative/</link>
+      <pubDate>Wed, 10 Jul 2019 21:57:29 +0300</pubDate>
+      
+      <guid>http://localhost:1314/categories/creative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Zune</title>
+      <link>http://localhost:1314/categories/microsoft-zune/</link>
+      <pubDate>Wed, 10 Jul 2019 21:50:06 +0300</pubDate>
+      
+      <guid>http://localhost:1314/categories/microsoft-zune/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPod Touch</title>
+      <link>http://localhost:1314/categories/ipod-touch/</link>
+      <pubDate>Sat, 06 Jul 2019 10:36:44 +0300</pubDate>
+      
+      <guid>http://localhost:1314/categories/ipod-touch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPod Shuffle</title>
+      <link>http://localhost:1314/categories/ipod-shuffle/</link>
+      <pubDate>Sat, 06 Jul 2019 10:34:44 +0300</pubDate>
+      
+      <guid>http://localhost:1314/categories/ipod-shuffle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPod Nano</title>
+      <link>http://localhost:1314/categories/ipod-nano/</link>
+      <pubDate>Sat, 06 Jul 2019 10:33:29 +0300</pubDate>
+      
+      <guid>http://localhost:1314/categories/ipod-nano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPod Mini</title>
+      <link>http://localhost:1314/categories/ipod-mini/</link>
+      <pubDate>Sat, 06 Jul 2019 10:32:09 +0300</pubDate>
+      
+      <guid>http://localhost:1314/categories/ipod-mini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPod Classic</title>
+      <link>http://localhost:1314/categories/ipod-classic/</link>
+      <pubDate>Sat, 06 Jul 2019 10:31:53 +0300</pubDate>
+      
+      <guid>http://localhost:1314/categories/ipod-classic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

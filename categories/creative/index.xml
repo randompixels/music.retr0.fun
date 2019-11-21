@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Creative on Music Players</title><link>http://localhost:1314/categories/creative/</link><description>Recent content in Creative on Music Players</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 10 Jul 2019 21:57:29 +0300</lastBuildDate><atom:link href="http://localhost:1314/categories/creative/index.xml" rel="self" type="application/rss+xml"/><item><title>Creative NOMAD Jukebox Zen Xtra</title><link>http://localhost:1314/ipod/creative-jukebox-zen-xtra/</link><pubDate>Wed, 10 Jul 2019 21:57:29 +0300</pubDate><guid>http://localhost:1314/ipod/creative-jukebox-zen-xtra/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Creative on Music Players</title>
+    <link>http://localhost:1314/categories/creative/</link>
+    <description>Recent content in Creative on Music Players</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 Jul 2019 21:57:29 +0300</lastBuildDate>
+    
+	<atom:link href="http://localhost:1314/categories/creative/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creative NOMAD Jukebox Zen Xtra</title>
+      <link>http://localhost:1314/ipod/creative-jukebox-zen-xtra/</link>
+      <pubDate>Wed, 10 Jul 2019 21:57:29 +0300</pubDate>
+      
+      <guid>http://localhost:1314/ipod/creative-jukebox-zen-xtra/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

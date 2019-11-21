@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2015 on Music Players</title><link>http://localhost:1314/year/2015/</link><description>Recent content in 2015 on Music Players</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 23 Jul 2019 13:06:59 +0300</lastBuildDate><atom:link href="http://localhost:1314/year/2015/index.xml" rel="self" type="application/rss+xml"/><item><title>iPhone 6S</title><link>http://localhost:1314/ipod/iphone-6s/</link><pubDate>Tue, 23 Jul 2019 13:06:59 +0300</pubDate><guid>http://localhost:1314/ipod/iphone-6s/</guid><description/></item><item><title>iPod touch (6th Gen)</title><link>http://localhost:1314/ipod/ipod-touch-6th-gen/</link><pubDate>Sat, 06 Jul 2019 10:36:33 +0300</pubDate><guid>http://localhost:1314/ipod/ipod-touch-6th-gen/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2015 on Music Players</title>
+    <link>http://localhost:1314/year/2015/</link>
+    <description>Recent content in 2015 on Music Players</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jul 2019 13:06:59 +0300</lastBuildDate>
+    
+	<atom:link href="http://localhost:1314/year/2015/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>iPhone 6S</title>
+      <link>http://localhost:1314/ipod/iphone-6s/</link>
+      <pubDate>Tue, 23 Jul 2019 13:06:59 +0300</pubDate>
+      
+      <guid>http://localhost:1314/ipod/iphone-6s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPod touch (6th Gen)</title>
+      <link>http://localhost:1314/ipod/ipod-touch-6th-gen/</link>
+      <pubDate>Sat, 06 Jul 2019 10:36:33 +0300</pubDate>
+      
+      <guid>http://localhost:1314/ipod/ipod-touch-6th-gen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2013 on Music Players</title><link>http://localhost:1314/year/2013/</link><description>Recent content in 2013 on Music Players</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 23 Jul 2019 13:06:44 +0300</lastBuildDate><atom:link href="http://localhost:1314/year/2013/index.xml" rel="self" type="application/rss+xml"/><item><title>iPhone 5S</title><link>http://localhost:1314/ipod/iphone-5s/</link><pubDate>Tue, 23 Jul 2019 13:06:44 +0300</pubDate><guid>http://localhost:1314/ipod/iphone-5s/</guid><description/></item><item><title>iPhone 5c</title><link>http://localhost:1314/ipod/iphone-5c/</link><pubDate>Tue, 23 Jul 2019 13:06:41 +0300</pubDate><guid>http://localhost:1314/ipod/iphone-5c/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2013 on Music Players</title>
+    <link>http://localhost:1314/year/2013/</link>
+    <description>Recent content in 2013 on Music Players</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jul 2019 13:06:44 +0300</lastBuildDate>
+    
+	<atom:link href="http://localhost:1314/year/2013/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>iPhone 5S</title>
+      <link>http://localhost:1314/ipod/iphone-5s/</link>
+      <pubDate>Tue, 23 Jul 2019 13:06:44 +0300</pubDate>
+      
+      <guid>http://localhost:1314/ipod/iphone-5s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPhone 5c</title>
+      <link>http://localhost:1314/ipod/iphone-5c/</link>
+      <pubDate>Tue, 23 Jul 2019 13:06:41 +0300</pubDate>
+      
+      <guid>http://localhost:1314/ipod/iphone-5c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

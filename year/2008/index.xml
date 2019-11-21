@@ -1,1 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2008 on Music Players</title><link>http://localhost:1314/year/2008/</link><description>Recent content in 2008 on Music Players</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 23 Jul 2019 13:06:19 +0300</lastBuildDate><atom:link href="http://localhost:1314/year/2008/index.xml" rel="self" type="application/rss+xml"/><item><title>iPhone 3G</title><link>http://localhost:1314/ipod/iphone-3g/</link><pubDate>Tue, 23 Jul 2019 13:06:19 +0300</pubDate><guid>http://localhost:1314/ipod/iphone-3g/</guid><description/></item><item><title>Zune 4 / 8 / 16</title><link>http://localhost:1314/ipod/zune-4-8-16/</link><pubDate>Wed, 10 Jul 2019 21:49:46 +0300</pubDate><guid>http://localhost:1314/ipod/zune-4-8-16/</guid><description/></item><item><title>iPod touch (2nd Gen)</title><link>http://localhost:1314/ipod/ipod-touch-2nd-gen/</link><pubDate>Sat, 06 Jul 2019 10:35:13 +0300</pubDate><guid>http://localhost:1314/ipod/ipod-touch-2nd-gen/</guid><description>Although the iPod touch (2nd Gen/Late 2009/MC/8 GB) was released alongside the iPod touch 3rd Gen and is distinctly different from the 8 GB configuration of the iPod touch 2nd Gen, with more advanced connectivity (even if not entirely supported in software), its own &amp;ldquo;MC&amp;rdquo; order numbers and unique serial numbers, and even its own Bootrom, it is easiest to retroactively consider it a &amp;ldquo;2nd Gen&amp;rdquo; model as it cannot run versions of the iOS beyond iOS 4.</description></item><item><title>iPod nano (4th Gen)</title><link>http://localhost:1314/ipod/ipod-nano-4th-gen/</link><pubDate>Sat, 06 Jul 2019 10:32:46 +0300</pubDate><guid>http://localhost:1314/ipod/ipod-nano-4th-gen/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2008 on Music Players</title>
+    <link>http://localhost:1314/year/2008/</link>
+    <description>Recent content in 2008 on Music Players</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jul 2019 13:06:19 +0300</lastBuildDate>
+    
+	<atom:link href="http://localhost:1314/year/2008/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>iPhone 3G</title>
+      <link>http://localhost:1314/ipod/iphone-3g/</link>
+      <pubDate>Tue, 23 Jul 2019 13:06:19 +0300</pubDate>
+      
+      <guid>http://localhost:1314/ipod/iphone-3g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zune 4 / 8 / 16</title>
+      <link>http://localhost:1314/ipod/zune-4-8-16/</link>
+      <pubDate>Wed, 10 Jul 2019 21:49:46 +0300</pubDate>
+      
+      <guid>http://localhost:1314/ipod/zune-4-8-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPod touch (2nd Gen)</title>
+      <link>http://localhost:1314/ipod/ipod-touch-2nd-gen/</link>
+      <pubDate>Sat, 06 Jul 2019 10:35:13 +0300</pubDate>
+      
+      <guid>http://localhost:1314/ipod/ipod-touch-2nd-gen/</guid>
+      <description>Although the iPod touch (2nd Gen/Late 2009/MC/8 GB) was released alongside the iPod touch 3rd Gen and is distinctly different from the 8 GB configuration of the iPod touch 2nd Gen, with more advanced connectivity (even if not entirely supported in software), its own &amp;ldquo;MC&amp;rdquo; order numbers and unique serial numbers, and even its own Bootrom, it is easiest to retroactively consider it a &amp;ldquo;2nd Gen&amp;rdquo; model as it cannot run versions of the iOS beyond iOS 4.</description>
+    </item>
+    
+    <item>
+      <title>iPod nano (4th Gen)</title>
+      <link>http://localhost:1314/ipod/ipod-nano-4th-gen/</link>
+      <pubDate>Sat, 06 Jul 2019 10:32:46 +0300</pubDate>
+      
+      <guid>http://localhost:1314/ipod/ipod-nano-4th-gen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2010 on Music Players</title><link>http://localhost:1314/year/2010/</link><description>Recent content in 2010 on Music Players</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 23 Jul 2019 13:06:30 +0300</lastBuildDate><atom:link href="http://localhost:1314/year/2010/index.xml" rel="self" type="application/rss+xml"/><item><title>iPhone 4</title><link>http://localhost:1314/ipod/iphone-4/</link><pubDate>Tue, 23 Jul 2019 13:06:30 +0300</pubDate><guid>http://localhost:1314/ipod/iphone-4/</guid><description/></item><item><title>iPod touch (4th Gen/FaceTime)</title><link>http://localhost:1314/ipod/ipod-touch-4th-gen-facetime/</link><pubDate>Sat, 06 Jul 2019 10:35:40 +0300</pubDate><guid>http://localhost:1314/ipod/ipod-touch-4th-gen-facetime/</guid><description/></item><item><title>iPod shuffle (4th Gen)</title><link>http://localhost:1314/ipod/ipod-shuffle-4th-gen-wheel-voiceover/</link><pubDate>Sat, 06 Jul 2019 10:34:44 +0300</pubDate><guid>http://localhost:1314/ipod/ipod-shuffle-4th-gen-wheel-voiceover/</guid><description/></item><item><title>iPod nano (6th Gen – Multitouch/Clip)</title><link>http://localhost:1314/ipod/ipod-nano-6th-gen-1-54-multitouch-clip/</link><pubDate>Sat, 06 Jul 2019 10:33:17 +0300</pubDate><guid>http://localhost:1314/ipod/ipod-nano-6th-gen-1-54-multitouch-clip/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2010 on Music Players</title>
+    <link>http://localhost:1314/year/2010/</link>
+    <description>Recent content in 2010 on Music Players</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jul 2019 13:06:30 +0300</lastBuildDate>
+    
+	<atom:link href="http://localhost:1314/year/2010/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>iPhone 4</title>
+      <link>http://localhost:1314/ipod/iphone-4/</link>
+      <pubDate>Tue, 23 Jul 2019 13:06:30 +0300</pubDate>
+      
+      <guid>http://localhost:1314/ipod/iphone-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPod touch (4th Gen/FaceTime)</title>
+      <link>http://localhost:1314/ipod/ipod-touch-4th-gen-facetime/</link>
+      <pubDate>Sat, 06 Jul 2019 10:35:40 +0300</pubDate>
+      
+      <guid>http://localhost:1314/ipod/ipod-touch-4th-gen-facetime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPod shuffle (4th Gen)</title>
+      <link>http://localhost:1314/ipod/ipod-shuffle-4th-gen-wheel-voiceover/</link>
+      <pubDate>Sat, 06 Jul 2019 10:34:44 +0300</pubDate>
+      
+      <guid>http://localhost:1314/ipod/ipod-shuffle-4th-gen-wheel-voiceover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPod nano (6th Gen – Multitouch/Clip)</title>
+      <link>http://localhost:1314/ipod/ipod-nano-6th-gen-1-54-multitouch-clip/</link>
+      <pubDate>Sat, 06 Jul 2019 10:33:17 +0300</pubDate>
+      
+      <guid>http://localhost:1314/ipod/ipod-nano-6th-gen-1-54-multitouch-clip/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
