@@ -528,16 +528,12 @@
   
   <url>
     <loc>http://localhost:1314/markdown/test/</loc>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1314/old-versions/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1314/stats/</loc>
     <priority>0</priority>
   </url>
   
